@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Klaus-G-Haas
+- 👋 Hi, I’m Klaus-G-Haas
 - 👀 I’m interested in HTML, CSS, Javascript, PHP, MySQL
 - 🌱 I’m currently learning Laravel
 
